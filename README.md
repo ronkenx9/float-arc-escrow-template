@@ -33,7 +33,7 @@ This template wraps any 2-party escrow in FLOAT yield routing. The
 integration is so small you can drop it into your existing escrow contract
 in 5 lines.
 
-Same idea as the [prediction market template](https://github.com/ronkenx9/float-arc-template),
+Same idea as the [prediction market template](https://github.com/ronkenx9/float-arc-prediction-market-template),
 adapted for a counterparty-settled flow:
 
 | | Prediction market | Escrow |

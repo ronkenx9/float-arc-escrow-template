@@ -18,7 +18,7 @@ The two reference repos:
 
 | Repo | Pattern |
 |---|---|
-| [`float-arc-template`](https://github.com/ronkenx9/float-arc-template) | Many depositors, one outcome, parimutuel payout (prediction market) |
+| [`float-arc-prediction-market-template`](https://github.com/ronkenx9/float-arc-prediction-market-template) | Many depositors, one outcome, parimutuel payout (prediction market) |
 | [`float-arc-escrow-template`](https://github.com/ronkenx9/float-arc-escrow-template) | One depositor, one beneficiary, single payout (2-party escrow) |
 
 ---
@@ -40,7 +40,7 @@ Fork it as-is. Customize:
 
 > Use cases: prediction markets, lotteries, parimutuel betting
 
-Already covered by [`float-arc-template`](https://github.com/ronkenx9/float-arc-template).
+Already covered by [`float-arc-prediction-market-template`](https://github.com/ronkenx9/float-arc-prediction-market-template).
 Fork it as-is. Customize:
 
 - Replace `bet(bool, amount)` with whatever your deposit semantics are
@@ -266,6 +266,6 @@ These five rules cover ~95% of the integration gotchas.
 
 ## Need help?
 
-- Open an issue on [`float-arc-template`](https://github.com/ronkenx9/float-arc-template/issues)
+- Open an issue on [`float-arc-prediction-market-template`](https://github.com/ronkenx9/float-arc-prediction-market-template/issues)
 - DM [@floatrouter](https://x.com/floatrouter)
 - The SDK source is at [`floatrouter-sdk`](https://github.com/ronkenx9/floatrouter-sdk)
